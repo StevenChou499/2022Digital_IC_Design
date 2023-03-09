@@ -1,3 +1,3 @@
-# 2022Digital_IC_Desgin
+# 2023Digital_IC_Desgin
 
 This is the repository for digital IC design homework.

@@ -1,4 +1,3 @@
-
 module MMS_8num(result, select, number0, number1, number2, number3, number4, number5, number6, number7);
 
 input        select;

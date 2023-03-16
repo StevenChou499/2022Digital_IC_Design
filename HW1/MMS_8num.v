@@ -9,7 +9,7 @@ input  [7:0] number4;
 input  [7:0] number5;
 input  [7:0] number6;
 input  [7:0] number7;
-output reg [7:0] result; 
+output reg [7:0] result;
 
 wire [7:0] compare_1, compare_2;
 	
